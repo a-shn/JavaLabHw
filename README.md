@@ -5,4 +5,5 @@
   https://github.com/a-shn/RabbitMqDocsConsumers <br />
 3.https://github.com/a-shn/hateoas-homework <br />
 5.https://github.com/a-shn/5.MongoDB <br />
-6.https://github.com/a-shn/MongoDb
+6.https://github.com/a-shn/MongoDb <br />
+7.https://github.com/a-shn/QueryDSL
